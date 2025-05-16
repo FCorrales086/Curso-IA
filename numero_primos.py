@@ -28,4 +28,4 @@ if __name__ == "__main__":
     # num2 = 0 # Descomentar esta línea para causar el Error Intencional 3
     print(f"{num1} / {num2} = {divide_numbers(num1, num2)}")
 
-  #hola esta rama es la nueva
+  
